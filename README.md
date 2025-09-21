@@ -34,6 +34,4 @@ Facilita la toma de decisiones de compras anticipadas.
 
 📌 Notas
 Este documento corresponde a la versión 1 (V1) y puede ser actualizado conforme se obtengan nuevas proyecciones de ventas o cambios en la capacidad de producción.
-📌 Notas
 
-Este documento corresponde a la versión 1 (V1) y puede ser actualizado conforme se obtengan nuevas proyecciones de ventas o cambios en la capacidad de producción.
